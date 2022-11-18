@@ -253,6 +253,17 @@ header p {
         font-size: 15px;
         margin: 0;
     }
+    /*ajustando footer*/
+    
+    
+    footer .line1 {
+        flex-direction: column;
+    }
+    footer .endereço {
+        width: 95%;
+        margin-bottom: 20px;
+
+    }
     
  }
 
